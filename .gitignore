@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Environment secrets (API keys and DB credentials)
+.env
+backend/.env
+frontend/.env
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
